@@ -1,4 +1,4 @@
-# Solana RPC Node and RabbitMQ Setup for ETL Project
+# IAC for ETL-Core infrastructure 
 
 ## Overview
 This repository contains the necessary infrastructure as code to set up a Solana RPC node and RabbitMQ for an ETL (Extract, Transform, Load) project. It is designed to provision and configure a secure environment on Google Cloud Platform (GCP) for running a Solana node, along with RabbitMQ for efficient data handling and processing.
