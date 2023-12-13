@@ -8,15 +8,6 @@ terraform {
   }
 }
 
-
-variable "region" {
-  default = "us-east"
-}
-
-variable "project" {
-    default =
-}
-
 locals {
   project_id = ""
   region     = ""
